@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: form-jquery-reproducer-$NEXT_MINOR_VERSION
